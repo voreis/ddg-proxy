@@ -6,6 +6,7 @@ The purpose of this project is use NodeJS as backend and ReactJS + Redux as fron
 
 To run:
 `$ cd src`
+`$ npm run install-all`
 `$ npm run dev`
 
 To test:
@@ -54,5 +55,7 @@ To test:
 ### Observations
 
 It was a two day project with a tech stack that I am not familiar with, so with more time and effort could be so much better.
+
+I used two file access library because to read I prefer to read line by line to not consume to much memory
 
 
